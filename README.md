@@ -1,5 +1,6 @@
 MIN-MAX HEAP
 ====================
+Building with travis: [![Build Status](https://www.travis-ci.com/danielScLima/MinMaxHeap.svg?branch=master)](https://www.travis-ci.com/danielScLima/MinMaxHeap)
 
 This repository has a project with the implementation of a MIN-MAX HEAP.
 
